@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "model": "TBX-1",
+  "channel": "stable",
+  "version": "0.1.0",
+  "url": "",
+  "size": 0,
+  "sha256": "",
+  "notes": "Første oppsett av oppdateringssystemet"
+}
