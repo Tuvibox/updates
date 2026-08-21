@@ -1,10 +1,11 @@
 {
   "schema": 1,
+  "product": "Tuvibox",
   "model": "TBX-1",
-  "channel": "stable",
-  "version": "0.1.0",
+  "channel": "alpha",
+  "version": "0.1.0-alpha.1",
   "url": "",
   "size": 0,
   "sha256": "",
-  "notes": "Første oppsett av oppdateringssystemet"
+  "notes": "Første alpha-versjon av Tuvibox"
 }
