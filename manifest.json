@@ -1,11 +1,12 @@
 {
   "schema": 1,
   "product": "Tuvibox",
-  "model": "TBX-1",
+  "model": "TBX-1-ROTARY",
   "channel": "alpha",
-  "version": "0.1.0-alpha.1",
-  "url": "",
-  "size": 0,
-  "sha256": "",
-  "notes": "Første alpha-versjon av Tuvibox"
+  "version": "0.2.0-alpha.3",
+  "url": "https://github.com/Tuvibox/updates/releases/download/v0.2.0-alpha.3/tuvibox-rotary.bin",
+  "size": 1756336,
+  "sha256": "eda490bcbf1fb5ad82ba3b57b37d8d39ec49d1c93e2b9ed4454c9ee2760c3892",
+  "notes": "Tuvibox OS: Trill og Rotary produktprofiler"
 }
+
