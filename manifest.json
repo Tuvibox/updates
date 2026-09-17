@@ -3,10 +3,10 @@
   "product": "Tuvibox",
   "model": "TBX-1-ROTARY",
   "channel": "alpha",
-  "version": "0.2.0-alpha.3",
-  "url": "https://github.com/Tuvibox/updates/releases/download/v0.2.0-alpha.3/tuvibox-rotary.bin",
-  "size": 1756336,
-  "sha256": "eda490bcbf1fb5ad82ba3b57b37d8d39ec49d1c93e2b9ed4454c9ee2760c3892",
-  "notes": "Tuvibox OS: Trill og Rotary produktprofiler"
+  "version": "0.2.0-alpha.5",
+  "url": "https://github.com/Tuvibox/updates/releases/download/v0.2.0-alpha.5/tuvibox-rotary.bin",
+  "size": 1783472,
+  "sha256": "bd652a9b5c919e80c7db7fc082dbcc2d326e69405c491747d3d6deda9c6127dd",
+  "notes": "Alpha.5: single-track mode, seek slider, travel Wi-Fi profiles, idle deep sleep, grouped diagnostics and reduced dynamic internal-memory use. Hardware validation required."
 }
 
